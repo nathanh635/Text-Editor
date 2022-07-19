@@ -53,7 +53,7 @@
   
 ## Links
 
-  Repository: https://github.com/nathanh635/Social-Network
+  Repository: https://github.com/nathanh635/Text-Editor
   
   Heroku Deployment: https://radiant-temple-37153.herokuapp.com/
 
