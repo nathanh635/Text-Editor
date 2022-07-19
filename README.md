@@ -49,6 +49,7 @@
 
 ![screenshot1](./assets/Screenshot1-splashpage.PNG)
 ![screenshot2](./assets/view%20of%20indexedDB.PNG)
+![screenshot3](./assets/screenshot%20installed.PNG)
   
 ## Links
 
